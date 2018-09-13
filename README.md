@@ -1,0 +1,2 @@
+# ColorPaletteLinear
+table of colors
